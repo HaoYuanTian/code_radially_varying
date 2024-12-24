@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
+        "lamda",
         "linalg",
+        "meshgrid",
+        "openloop",
         "Rstep",
         "spsolve",
         "sptial"
